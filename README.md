@@ -1,2 +1,2 @@
-# iyoyo.github.io
+# iyoyo
 Github pages
